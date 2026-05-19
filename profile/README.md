@@ -1,4 +1,4 @@
-## Lens Consulting
+# Lens Consulting
 
 Добро пожаловать 🚀
 
