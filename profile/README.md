@@ -1,4 +1,4 @@
-# Lens Consulting
+# Lens Consulting | Lens Digital
 
 Добро пожаловать 🚀
 
