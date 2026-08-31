@@ -21,4 +21,4 @@ git clone <ssh-код>
 ```
 git clone git@github.com:LensConsulting/analytical-reports.git
 ```
-Готово! 
+Проверям, появился ли репозиторий в нужной папке. Готово!
